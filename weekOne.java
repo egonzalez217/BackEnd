@@ -25,6 +25,7 @@ public static void main(String[] args)
 		System.out.println("Total Money After Purchase: " + newMoney);
 		System.out.println("Friends Made Per Year Alive: " + friendsPerYear);
 		System.out.println("Full Name: " + fullName);
+		System.out.print("bruh");
 	}
 
 }
