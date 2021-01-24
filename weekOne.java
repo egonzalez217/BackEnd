@@ -3,7 +3,7 @@ public class weekOne {
 
 public static void main(String[] args) 
 	{
-		int itemPrice = 7663;
+		double itemPrice = 7663.00;
 		int money = 9000;
 		int numberOfFriends = 220;
 		int ageInYears = 22;
@@ -11,7 +11,7 @@ public static void main(String[] args)
 		String lastName = "Gonzalez";
 		char middleInitial = 'H';
 		
-		int newMoney = money - itemPrice;
+		double newMoney = money - itemPrice;
 		int friendsPerYear = numberOfFriends / ageInYears;
 		String fullName = firstName + " " + middleInitial + " " + lastName;
 		
